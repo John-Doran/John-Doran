@@ -2,13 +2,9 @@
 ## I am not entirly sure how this works
 ## Welcome to GitHub Pages
 
-www.google.com
+[This is Google](www.google.com)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-You can use the [editor on GitHub](https://github.com/John-Doran/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image of Yaktocat](https://github.com/John-Doran/test/WMAP.jpg)
 
 ### Markdown
 
