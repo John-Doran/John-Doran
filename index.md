@@ -6,7 +6,7 @@
 
 ![WMAP](WMAP.jpg)
 
-![Pig Man](PIG MAN.jpg)
+![Pig Man](PigMan.jpg)
 
 ### Markdown
 
