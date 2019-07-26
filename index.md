@@ -1,4 +1,4 @@
-# John Doran's Landing Page
+# **John Doran's** Landing Page
 ## I am not entirly sure how this works
 ## Welcome to GitHub Pages
 
