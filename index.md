@@ -4,7 +4,7 @@
 
 [This is Google](www.google.com)
 
-![Image of Yaktocat](https://github.com/John-Doran/test/WMAP.jpg)
+![Image of Yaktocat](https://John-Doran.github.com/test/WMAP.jpg)
 
 ### Markdown
 
