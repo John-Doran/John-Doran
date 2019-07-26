@@ -2,7 +2,7 @@
 ## I am not entirly sure how this works
 ## Welcome to GitHub Pages
 
-[Link](www.google.com)
+www.google.com
 ![Image](‪C:\Users\johndo\Pictures\WMAP.jpg)
 
 You can use the [editor on GitHub](https://github.com/John-Doran/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
